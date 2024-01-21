@@ -46,7 +46,7 @@ Experienced software engineer with a diverse background in various areas of soft
 <br/>
 <hr />
 
-### > curl -u daniel:yoshizawa https://portfolio.web/page
+### > curl -u daniel:yoshizawa https://danielyoshizawa.dev
 [Check out my portfolio web site!](https://danielyoshizawa.dev)
 
 
